@@ -1,0 +1,3 @@
+class jobmodel():
+	name = models.CharField()
+	
