@@ -1,3 +1,5 @@
 class jobmodel():
 	name = models.CharField()
+	jobtitle = models.Charfield()
+	jobloc = models.Charfield()
 	
